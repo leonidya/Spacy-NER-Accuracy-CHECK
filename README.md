@@ -2,11 +2,11 @@
 Spacy NER Accuracy CHECK ( 10 articles, Spacy vs manual review)
 
 
-Data - 10 articles from any news site
-Loop on them using spacy and extracted all entity types (NER)
-Generate statistics on the count of each entity type in the full collection (aggregate statistics)
-Manually label each NER (correct/incorrect and what is the correct entity type if incorrect)
-Generated statistics on the precision of Spacy on each of the entity types (like on Person, ORG, LOC, GPE...)
+Data - 1. I picked 10 articles from news site
+2. Then Looped on them using spacy and extracted all entity types (NER)
+3. Generate statistics on the count of each entity type in the full collection (aggregate statistics)
+4. Manually label each NER (correct/incorrect and what is the correct entity type if incorrect)
+5. Generated statistics on the precision of Spacy on each of the entity types (like on Person, ORG, LOC, GPE...)
 
 
 The main categories:
